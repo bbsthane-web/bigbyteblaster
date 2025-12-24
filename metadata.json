@@ -1,0 +1,8 @@
+{
+  "name": "Big Byte Blaster - Elite Tech Repair Thane",
+  "description": "Premium repair and data recovery services for MacBooks, Gaming PCs, iPhones, and Peripherals in Manpada, Thane.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
